@@ -1,36 +1,68 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
+avatar/*
+background/*
+files/*
+file/*
+script
+local/*
+logo
+_darcs/*
+logs/*
+log/*
+run/*
+config.php
+.vimrc
+.htaccess
+httpd.conf
+*.tmproj
+dataobject.ini
+*~
+*.bak
+*.orig
+*.rej
+.#*
+*.swp
+.buildpath
+.project
+.settings
+TODO.rym
+config-*.php
+good-config.php
+lac08.log
+php.log
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must ends with two \r.
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
+nbproject
+*.mo
+[^/]*.png
+subdomains
+_vti*
+cgi-bin
+css/Roboto*
+css/[uU]buntu*
+doc-src
+playpen
+*.zip
+*.tgz
+*.tar.gz
+*.html
+Google Android License.txt
+MIT-LICENSE
+*.old
+[^/]*.mp3
+logos
+*.[0-9]*
+error_log
+plugins/BrowserPonies/ponies/*
+plugins/Affiliates/*.png
+plugins/Affiliates/*.jpg
+plugins/Affiliates/*.gif
+plugins/Emotes/e
+plugins/CustomImage/*.png
+plugins/CustomImage/*.jpg
+plugins/CustomImage/*.gif
+[^/]*.ogg
+mu-[0-9\-a-f]*
+[^/]*.jpg
+.svn
+tags
+*.swo
+Thumbs.db
